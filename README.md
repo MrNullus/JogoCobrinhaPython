@@ -1,2 +1,2 @@
-# Jogo Cobrinha Python
-_Jogo da Cobrinnha feito em Python_
+# Python Snake Game
+Snake game made in Python
